@@ -1,0 +1,12 @@
+React Hooks provides a concept call context
+
+React Context API allow you to easily acess the data at different levels of the
+component tree,without passing the props to every level
+
+step-1
+create a context => createContext()
+step-2
+when u create a context then u need a provider that provides the data
+provider
+step-3
+consumer
